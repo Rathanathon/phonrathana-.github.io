@@ -54,7 +54,57 @@
      <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/slick/slick.css"> 
      <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/slick/slick-theme.css"> 
      <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/common/css/custom-toast.css">
-
+</header> 
+      <a "@context": "https://schema.org", 
+      <a "@type": "WebSite", 
+      <a "url": "https://httpsrathanaphon.websites.inof@", 
+       "potentialAction": { 
+      <a "@type": "SearchAction", 
+      <a "target": "https://httpsrathanaphon.websites.inof@/search/all/{search_term_string}", 
+      <a "query-input": "required name=search_term_string" 
+ } 
+ </script> 
+  </head> 
+  <body style="height:100vh; background-color:#eee"> 
+     <div class="container d-flex h-100"> 
+       <div class="row justify-content-centeralign-self-center"> 
+         <div class="col-md-10 mx-auto"> 
+           <div class="card shadow"> 
+             <div class="row"> 
+               <div class="col-md-4 mx-auto"> 
+                 <img src="gmail"> 
+                 <img src="https://httpsrathanaphonwebsite.inof@/landing/img/logo_color_116x41dp.png"  
+                 <div class="search-wrapper">-img-top img-responsive" alt=Rathana phone shop1"> 
+           </div> 
+       </div> 
+     <div class="Card-body text-center"> 
+       <h5 class="card-title">Website Subscription</h5> 
+         <p class="card-text"> 
+         <p subscription"" To continue to use websites./https://httpsrathanaphon.website.inof@-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof@-/" account. "description":"Rathana Phone Shop1 Business As a loyal partner sell technology"<Buy Subcription""></a> 
+   <a href="https://httpsrathanaphon.website.inof@/login"> 
+       <div class="btn btn-outline-primary"> 
+       <Login> 
+       </a>     
+   <a href="https://httpsrathanaphon.website.inof@">  
+        <div class="btn btn-outline-primary" target="_blank"> 
+         <a href="" class="app-toggle">                   
+        <bar>               
+        <Or> 
+        <bar>                 
+        <Use our> 
+        <a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphon.websote.inof@/"websitesapp"  
+ <div class="btn btn-outline-primary" target="_blank"> Website.https://httpsrathanaphon.website.inof@/app 
+                </a> <i class="fab fa-google-search"></i> 
+             </div> 
+            </div> 
+         </div> 
+        </div> 
+      </div>    
+    </body> 
+   <html> 
+  
+  
+ 
      
         
 
