@@ -36,24 +36,24 @@
      <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font" -awesome.min.css">  
      <link rel="stylesheet" href="css/custom.css"> 
        <title> Rathana phone Shop1 in  Phnom Penh </titie>
-            <!-- Favicon -->
-        <link rel="icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
-            <!-- Google font -->
-        <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
-            <!-- BS4 minified CSS -->
-        <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/bootstrap.min.css">
-            <!-- Custom minified CSS -->
-        <link rel="stylesheet" href="eventEditData: {
-        <link rel="stylesheet" href="https://httpsrathanaphon.web="stylesheet">     
-        <link href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
-            <!-- FontAwesome -->
-        <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/fonts/css/all.min.css">
-            <!-- Fancybox API -->
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css"/>
-            <!-- slick-->
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/slick/slick.css"> 
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/slick/slick-theme.css"> 
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/common/css/custom-toast.css">
+          <!-- Favicon -->
+     <link rel="icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
+          <!-- Google font -->
+     <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
+          <!-- BS4 minified CSS -->
+     <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/bootstrap.min.css">
+          <!-- Custom minified CSS -->
+     <link rel="stylesheet" href="eventEditData: {
+     <link rel="stylesheet" href="https://httpsrathanaphon.web="stylesheet">     
+     <link href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+          <!-- FontAwesome -->
+     <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/fonts/css/all.min.css">
+          <!-- Fancybox API -->
+     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css"/>
+          <!-- slick-->
+     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/slick/slick.css"> 
+     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/slick/slick-theme.css"> 
+     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/common/css/custom-toast.css">
 
      
         
