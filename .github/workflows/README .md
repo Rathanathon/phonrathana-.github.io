@@ -75,6 +75,16 @@
                  <img src="gmail"> 
                  <img src="https://httpsrathanaphonwebsite.inof@/landing/img/logo_color_116x41dp.png"  
                  <div class="search-wrapper">-img-top img-responsive" alt=Rathana phone shop1"> 
+                    "query-input": "required name=search_term_string
+            }
+        }
+   </script>               
+          <div class="top-bar">
+     <div class="container">
+         <div class="row py-2 text-center">
+           <div class="col-md-4 text-md-left" style="font-size: 14px;">
+                <i class="fas fa-phone share-icon"></i>
+                <a class="_click_record text-dark"
            </div> 
        </div> 
      <div class="Card-body text-center"> 
@@ -94,7 +104,7 @@
         <Use our> 
         <a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphon.websote.inof@/"websitesapp"  
  <div class="btn btn-outline-primary" target="_blank"> Website.https://httpsrathanaphon.website.inof@/app 
-                </a> <i class="fab fa-google-search"></i> 
+                </a> <i class="fab fa-google-android"></i> 
              </div> 
             </div> 
          </div> 
