@@ -82,7 +82,7 @@
           <div class="top-bar">
      <div class="container">
          <div class="row py-2 text-center">
-           <div class="col-md-4 text-md-left" style="font-size: 14px;">
+           <div class="col-md-4 text-md-left" style="font-size:14px;">
                 <i class="fas fa-phone share-icon"></i>
                 <a class="_click_record text-dark"
            </div> 
