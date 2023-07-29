@@ -74,7 +74,7 @@
                <div class="col-md-4 mx-auto"> 
                  <img src="gmail"> 
                  <img src="https://httpsrathanaphonwebsite.inof@/files/971938/business/logo-1332537698.jpeg landing/img/logo_color_116x41dp.png"  
-                 <div class="search-wrapper">-img/logo-1332537698.jpeg.top img-responsive" alt=Rathana phone shop1">          
+                 <div class="search-wrapper">-img-top img-responsive" alt=Rathana phone shop1">          
              <header>
            <nav id="navbar-wrapper" class="navbar navbar-expand-lg navbar-light">
       <div class="container">
