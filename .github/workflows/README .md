@@ -75,6 +75,16 @@
                  <img src="gmail"> 
                  <img src="https://httpsrathanaphonwebsite.inof@/landing/img/logo_color_116x41dp.png"  
                  <div class="search-wrapper">-img-top img-responsive" alt=Rathana phone shop1"> 
+              <header>
+    <nav id="navbar-wrapper" class="navbar navbar-expand-lg navbar-light">
+      <div class="container">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+   <span class="navbar-toggler-icon"></span>
+  </button>
+  <!-- brand logo -->
+  <a href="https://httpsrathanaphon.websites.co.in" title="Rathana phone Shop1" class="td-none text-center">
+       <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152"alt="Rathana phone Shop1">
+     </a>
            </div> 
        </div> 
      <div class="Card-body text-center"> 
