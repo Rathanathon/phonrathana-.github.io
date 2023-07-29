@@ -74,11 +74,19 @@
                <div class="col-md-4 mx-auto"> 
                  <img src="gmail"> 
                  <img src="https://httpsrathanaphonwebsite.inof@/landing/img/logo_color_116x41dp.png"  
-                 <div class="search-wrapper">-img-top img-responsive" alt=Rathana phone shop1"> 
+                 <div class="search-wrapper">-img-top img-responsive" alt=Rathana phone shop1">          
+             <header>
+           <nav id="navbar-wrapper" class="navbar navbar-expand-lg navbar-light">
+      <div class="container">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+   <span class="navbar-toggler-icon"></span>
+      <a href="https://httpsrathanaphon.websites.co.in" title="Rathana phone Shop1" class="td-none text-center">
+       <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152"alt="Rathana phone Shop1">
+     </a>
            </div> 
        </div> 
      <div class="Card-body text-center"> 
-       <h5 class="card-title">Website Subscription</h5> 
+       <h5 class="card-title">
          <p class="card-text"> 
          <p subscription"" To continue to use websites./https://httpsrathanaphon.website.inof@-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof@-/" account. "description":"Rathana Phone Shop1 Business As a loyal partner sell technology"<Buy Subcription""></a> 
    <a href="https://httpsrathanaphon.website.inof@/login"> 
