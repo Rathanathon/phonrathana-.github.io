@@ -80,8 +80,6 @@
       <div class="container">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
    <span class="navbar-toggler-icon"></span>
-  </button>
-  <!-- brand logo -->
   <a href="https://httpsrathanaphon.websites.co.in" title="Rathana phone Shop1" class="td-none text-center">
        <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152"alt="Rathana phone Shop1">
      </a>
