@@ -88,7 +88,7 @@
      <div class="Card-body text-center"> 
        <h5 class="card-title">
          <p class="card-text"> 
-         <p subscription"" To continue to use websites./https://httpsrathanaphon.website.inof@-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof-/" account. "description":"Rathana Phone Shop1 Business As a loyal partner sell technology"<Buy Subcription""></a> 
+         <p subscription"" To continue to use websites./https://httpsrathanaphon.website.inof-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof-/" account. "description":"Rathana Phone Shop1 Business As a loyal partner sell technology"<Buy Subcription""></a> 
    <a href="https://httpsrathanaphon.website.inof/login"> 
        <div class="btn btn-outline-primary"> 
        <Login> 
