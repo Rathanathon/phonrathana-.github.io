@@ -82,8 +82,7 @@
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
    <span class="navbar-toggler-icon"></span>
       <a href="https://httpsrathanaphon.websites.info" title="Rathana phone Shop1" class="td-none text-center">
-                 <img src="https://httpsrathanaphonwebsite.info/landing/img/logo_color_116x41dp.png"  
-                 <div class="search-wrapper">-logo-top-responsive" alt=Rathana phone shop1"> 
+                 <img src="https://httpsrathanaphonwebsite.info/landing/img/logo_color_116x41dp.png">
                     "query-input": "required name=search_term_string
             }
         }
