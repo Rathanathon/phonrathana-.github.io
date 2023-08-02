@@ -1,4 +1,4 @@
-# https://httpsrathanaphon.website.inof
+# https://httpsrathanaphon.website.info
 <!DOCTEYPE html>
 <html lagn="en"
 <html>
@@ -15,7 +15,7 @@
      <meta name="googlebot" content="index, follo">
      <meta name="web-app-capablecontent="yes">
      <meta name="mobile-web-app-capable" content="yes">
-    <link rel="apple-touch-icon" href="https://httpsrathanaphon.websites.inof/files/971938/favicon/favicon.png?v=528721588"/>
+    <link rel="apple-touch-icon" href="https://httpsrathanaphon.websites.info/files/971938/favicon/favicon.png?v=528721588"/>
      <meta name="theme-color" content="#FFFFFFfv6'jn+:jnv'">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
      <meta name="title" content="Rathana phone Shop1 in  Phnom Penh">
@@ -28,7 +28,7 @@
      <meta property="og:title" content="Rathana phone Shop1 in  Phnom Penh">
      <meta property="og:description" content="Business As a loyal partner sell technology">
      <meta property="og:image" content="https://httpsrathanaphon.websites.inof/files/971938/business/logo/logo-1332537698.jpeg">
-     <meta property="og:url" content="https://httpsrathanaphon.websites.inof">
+     <meta property="og:url" content="https://httpsrathanaphon.websites.info">
      <meta name="geo.position" content map=id"19.076;72.8774">
      <meta name="geo.placename" content="Phnom Penh">
      <meta name="geo.region" content="KH">
@@ -37,30 +37,30 @@
      <link rel="stylesheet" href="css/custom.css"> 
        <title> Rathana phone Shop1 in  Phnom Penh </titie>
           <!-- Favicon -->
-     <link rel="icon" href="https://httpsrathanaphon.websites.inof/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
+     <link rel="icon" href="https://httpsrathanaphon.websites.info/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
           <!-- Google font -->
      <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
           <!-- BS4 minified CSS -->
-     <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof/e-shop/css/bootstrap.min.css">
+     <link rel="stylesheet" href="https://httpsrathanaphon.websites.info/e-shop/css/bootstrap.min.css">
           <!-- Custom minified CSS -->
      <link rel="stylesheet" href="eventEditData: {
      <link rel="stylesheet" href="https://httpsrathanaphon.web="stylesheet">     
      <link href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
           <!-- FontAwesome -->
-     <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/fonts/css/all.min.css">
+     <link rel="stylesheet" href="https://httpsrathanaphon.websites.info/e-shop/fonts/css/all.min.css">
           <!-- Fancybox API -->
      <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css"/>
           <!-- slick-->
-     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof/e-shop/slick/slick.css"> 
-     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof/e-shop/slick/slick-theme.css"> 
-     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof/common/css/custom-toast.css">
+     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.info/e-shop/slick/slick.css"> 
+     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.info/e-shop/slick/slick-theme.css"> 
+     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.info/common/css/custom-toast.css">
 </header> 
       <a "@context": "https://schema.org", 
       <a "@type": "WebSite", 
-      <a "url": "https://httpsrathanaphon.websites.inof", 
+      <a "url": "https://httpsrathanaphon.websites.info", 
        "potentialAction": { 
       <a "@type": "SearchAction", 
-      <a "target": "https://httpsrathanaphon.websites.inof/search/all/{search_term_string}", 
+      <a "target": "https://httpsrathanaphon.websites.info/search/all/{search_term_string}", 
       <a "query-input": "required name=search_term_string" 
  } 
  </script> 
@@ -80,7 +80,6 @@
       <div class="container">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
    <span class="navbar-toggler-icon"></span>
-    <a href="https://httpsrathanaphon.websites.co.in" title="Rathana phone Shop1" class="td-none text-center">
        <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152"alt="Rathana phone Shop1">
      </a>
            </div> 
@@ -88,19 +87,19 @@
      <div class="Card-body text-center"> 
        <h5 class="card-title"></h5>
          <p class="card-text"> 
-         <p subscription"" To continue to use websites./https://httpsrathanaphon.website.inof@-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof-/" account. "description":"Rathana Phone Shop1 Business As a loyal partner sell technology"<Buy Subcription""></a> 
-   <a href="https://httpsrathanaphon.website.inof/login"> 
+         <p subscription"" To continue to use websites./https://httpsrathanaphon.website.info-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.info-/" account. "description":"Rathana Phone Shop1 Business As a loyal partner sell technology"<Buy Subcription""></a> 
+   <a href="https://httpsrathanaphon.website.info/login"> 
        <div class="btn btn-outline-primary"> 
        <Login> 
        </a>     
-   <a href="https://httpsrathanaphon.website.inof">  
+   <a href="https://httpsrathanaphon.website.info">  
         <div class="btn btn-outline-primary" target="_blank"> 
          <a href="" class="app-toggle">                   
-        <bar>               
+        <br>               
         <Or> 
-        <bar>                 
+        <br>                 
         <Use our> 
-        <a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphon.websote.inof/"websitesapp"  
+        <a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphon.websote.info"/websitesapp"  
  <div class="btn btn-outline-primary" target="_blank"> Website.https://httpsrathanaphon.website.inof/app 
                 </a> <i class="fa fa-Android"></i> 
              </div> 
