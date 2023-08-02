@@ -83,7 +83,7 @@
    <span class="navbar-toggler-icon"></span>
       <a href="https://httpsrathanaphon.websites.info" title="Rathana phone Shop1" class="td-none text-center">
                  <img src="https://httpsrathanaphonwebsite.info/landing/img/logo_color_116x41dp.png"  
-                 <div class="search-wrapper">-img-top img-responsive" alt=Rathana phone shop1"> 
+                 <div class="search-wrapper">-logo-top-responsive" alt=Rathana phone shop1"> 
                     "query-input": "required name=search_term_string
             }
         }
@@ -101,7 +101,7 @@
          <p class="card-text"> 
          <p subscription"" To continue to use websites./https://httpsrathanaphon.website.inof-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof-/" account. "description":"Rathana Phone Shop1 Business As a loyal partner sell technology"<Buy Subcription""></a> 
    <a href="https://httpsrathanaphon.website.info/login"> 
-form>
+<form>
     <input type="email" placeholder="Enter Email..." required>
     <button type="submit" class="button_1">Subscribe</button>
 <form>    
