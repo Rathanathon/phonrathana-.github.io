@@ -77,7 +77,7 @@
                <div class="col-md-4 mx-auto"> 
                  <img src="gmail"> 
                  <img src="https://httpsrathanaphonwebsite.info/files/971938/business/logo-1332537698.jpeg landing/img/logo_color_116x41dp.png"  
-                  <div class="navbar-wrapper">-img-top img-responsive" alt=Rathana phone shop1">          
+                  <div class="navbar-wrapper">-logo-top-brand-responsive" alt=Rathana phone shop1">          
              <header>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
    <span class="navbar-toggler-icon"></span>
