@@ -5,7 +5,7 @@
   <head></head>
       <head></head>
      ( "hello would" )
-      <meta charset="utf-8"
+      <meta charset="utf-8">
        <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1e7946724e",applicationID:"31671751">
          ;;(()=>{var e,t,r={9071:(e,t,r)=>{"use strict";r.d(t,{I:()=>n});var
      <meta name="google-site-verification" content=id"6o3mfq88FPLGRnIKr5-LYJCU0HEBlaS37S48w34IWe0"/>
@@ -77,12 +77,12 @@
                <div class="col-md-4 mx-auto"> 
                  <img src="gmail"> 
                  <img src="https://httpsrathanaphonwebsite.info/files/971938/business/logo-1332537698.jpeg landing/img/logo_color_116x41dp.png"  
-                 <div class="navbar-wrapper">-img-top img-responsive" alt=Rathana phone shop1">          
+                  <div class="navbar-wrapper">-img-top img-responsive" alt=Rathana phone shop1">          
              <header>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
    <span class="navbar-toggler-icon"></span>
       <a href="https://httpsrathanaphon.websites.info" title="Rathana phone Shop1" class="td-none text-center">
-                 <img src="https://httpsrathanaphonwebsite.inof@/landing/img/logo_color_116x41dp.png"  
+                 <img src="https://httpsrathanaphonwebsite.info/landing/img/logo_color_116x41dp.png"  
                  <div class="search-wrapper">-img-top img-responsive" alt=Rathana phone shop1"> 
                     "query-input": "required name=search_term_string
             }
@@ -92,7 +92,7 @@
      <div class="container">
          <div class="row py-2 text-center">
            <div class="col-md-4 text-md-left" style="font-size:14px;">
-                <i class="fas fa-phone share-icon"></i>
+                <i class="fa fa-phone share-icon"></i>
                 <a class="_click_record text-dark"
            </div> 
        </div> 
@@ -101,18 +101,32 @@
          <p class="card-text"> 
          <p subscription"" To continue to use websites./https://httpsrathanaphon.website.inof-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof-/" account. "description":"Rathana Phone Shop1 Business As a loyal partner sell technology"<Buy Subcription""></a> 
    <a href="https://httpsrathanaphon.website.info/login"> 
-         <p To continue to use websites./https://httpsrathanaphon.website.inof@-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof@-/" account. "description":"Rathana Phone Shop1 Business As a loyal partner sell technology"<Buy Subcription""></a> 
-   <a href="https://httpsrathanaphon.website.info/login"> 
+form>
+    <input type="email" placeholder="Enter Email..." required>
+    <button type="submit" class="button_1">Subscribe</button>
+<form>    
        <div class="btn btn-outline-primary"> 
        <Login> 
        </a>     
    <a href="https://httpsrathanaphon.website.info">  
         <div class="btn btn-outline-primary" target="_blank"> 
          <a href="" class="app-toggle">                   
-        <br>               
-        <Or
-        <br>                 
-        <Use name> 
+     </div>
+      <div>
+         <label>Name</label><br>
+         <input type="text" placeholder="Name">
+     </div>
+        <div>
+         <label>Email</label><br>
+         <input type="text" placeholder="Email Address">
+      </div>
+        <div>
+         <label>Message</label><br>
+         <input type="text"laceholder="Message">
+       </div>
+         <div>
+         <button class="button_1" type="submit">Send</button>                   
+         <Use name> 
         <a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphon.websote.info/"websitesapp"  
  <div class="btn btn-outline-primary"="_blank"> Website.https://httpsrathanaphon.website.info/app 
                 </a> <i class="fab fa-android"></i> 
