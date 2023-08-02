@@ -15,7 +15,7 @@
      <meta name="googlebot" content="index, follo">
      <meta name="web-app-capablecontent="yes">
      <meta name="mobile-web-app-capable" content="yes">
-    <link rel="apple-touch-icon" href="https://httpsrathanaphon.websites.inof/files/971938/favicon/favicon.png?v=528721588"/>
+    <link rel="apple-touch-icon" href="https://httpsrathanaphon.websites.info/files/971938/favicon/favicon.png?v=528721588"/>
      <meta name="theme-color" content="#FFFFFFfv6'jn+:jnv'">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
      <meta name="title" content="Rathana phone Shop1 in  Phnom Penh">
@@ -76,20 +76,39 @@
              <div class="row"> 
                <div class="col-md-4 mx-auto"> 
                  <img src="gmail"> 
+
                  <img src="https://httpsrathanaphonwebsite.info/files/971938/business/logo-1332537698.jpeg landing/img/logo_color_116x41dp.png"  
                  <div class="navbar-wrapper">-img-top img-responsive" alt=Rathana phone shop1">          
              <header>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
    <span class="navbar-toggler-icon"></span>
       <a href="https://httpsrathanaphon.websites.info" title="Rathana phone Shop1" class="td-none text-center">
-     </a>
+     
+                 <img src="https://httpsrathanaphonwebsite.inof@/landing/img/logo_color_116x41dp.png"  
+                 <div class="search-wrapper">-img-top img-responsive" alt=Rathana phone shop1"> 
+                    "query-input": "required name=search_term_string
+            }
+        }
+   </script>               
+          <div class="top-bar">
+     <div class="container">
+         <div class="row py-2 text-center">
+           <div class="col-md-4 text-md-left" style="font-size:14px;">
+                <i class="fas fa-phone share-icon"></i>
+                <a class="_click_record text-dark"
+
            </div> 
        </div> 
      <div class="Card-body text-center"> 
        <h5 class="card-title">
          <p class="card-text"> 
+
          <p subscription"" To continue to use websites./https://httpsrathanaphon.website.inof-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof-/" account. "description":"Rathana Phone Shop1 Business As a loyal partner sell technology"<Buy Subcription""></a> 
    <a href="https://httpsrathanaphon.website.info/login"> 
+
+         <p To continue to use websites./https://httpsrathanaphon.website.inof@-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof@-/" account. "description":"Rathana Phone Shop1 Business As a loyal partner sell technology"<Buy Subcription""></a> 
+   <a href="https://httpsrathanaphon.website.info/login"> 
+
        <div class="btn btn-outline-primary"> 
        <Login> 
        </a>     
@@ -97,19 +116,47 @@
         <div class="btn btn-outline-primary" target="_blank"> 
          <a href="" class="app-toggle">                   
         <br>               
-        <Or> 
+        <Or
         <br>                 
         <Use name> 
         <a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphon.websote.info/"websitesapp"  
  <div class="btn btn-outline-primary"="_blank"> Website.https://httpsrathanaphon.website.info/app 
                 </a> <i class="fab fa-android"></i> 
              </div> 
-            </div> 
-         </div> 
-        </div> 
-      </div>    
-    </body> 
-   <html> 
+           </div>
+         </div>
+      </body>
+   </html>                
+                                              
+
+         
+                                            
+
+      
+
+      
+
+     
+
+  
+
+  
+
+                    
+
+                       
+     
+       
+
+ 
+
+               
+            
+       
+      
+
+
+
   
   
  
