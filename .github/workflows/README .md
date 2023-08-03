@@ -82,7 +82,7 @@
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
    <span class="navbar-toggler-icon"></span>
       <a href="https://httpsrathanaphon.websites.info" title="Rathana phone Shop1" class="td-none text-center">
-                 <img src="https://httpsrathanaphonwebsite.info/landing/img/logo_color_116x41dp.png">
+               <img src="https://httpsrathanaphonwebsite.info/landing/img/logo_color_116x41dp.png">
             }
         }
    </script>               
@@ -110,19 +110,19 @@
         <div class="btn btn-outline-primary" target="_blank"> 
          <a href="" class="app-toggle">                   
      </div>
-      <div>
+       <div>
          <label>Name</label><br>
          <input type="text" placeholder="Name">
-     </div>
-        <div>
+    </div>
+       <div>
          <label>Email</label><br>
          <input type="text" placeholder="Email Address">
-      </div>
+     </div>
         <div>
          <label>Message</label><br>
          <input type="text"laceholder="Message">
-       </div>
-         <div>
+      </div>
+        <div>
          <button class="button_1" type="submit">Send</button>                   
          <Use name> 
         <a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphon.websote.info/"websitesapp"  
