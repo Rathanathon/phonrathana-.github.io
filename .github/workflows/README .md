@@ -43,7 +43,7 @@
      <link rel="icon" href="https://httpsrathanaphon.websites.info/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
           <!-- Google font -->
      <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
-          <!-- BS4 minified v0.39.2CSS -->
+          <!-- BS4 minified v0.39.2.CSS -->
      <link rel="stylesheet" href="https://httpsrathanaphon.websites.info/e-shop/css/bootstrap.min.css">
           <!-- Custom minified CSS -->
      <link rel="stylesheet" href="eventEditData: {
