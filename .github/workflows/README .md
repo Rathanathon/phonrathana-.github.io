@@ -1,4 +1,4 @@
-    <link href="h
+
 # https://httpsrathanaphon.website.info
 <!DOCTEYPE html>
 <html lagn="en"
@@ -43,12 +43,12 @@
      <link rel="icon" href="https://httpsrathanaphon.websites.info/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
           <!-- Google font -->
      <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
-          <!-- BS4 minified CSS -->
+          <!-- BS4 minified v0.39.2CSS -->
      <link rel="stylesheet" href="https://httpsrathanaphon.websites.info/e-shop/css/bootstrap.min.css">
           <!-- Custom minified CSS -->
      <link rel="stylesheet" href="eventEditData: {
      <link rel="stylesheet" href="https://httpsrathanaphon.web="stylesheet">     
-     <link href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+     <link href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v0.39.2/css/ol.css" type="text/css">
           <!-- FontAwesome -->
      <link rel="stylesheet" href="https://httpsrathanaphon.websites.info/e-shop/fonts/css/all.min.css">
           <!-- Fancybox API -->
@@ -118,7 +118,6 @@
        <div>
            <label>last name< label><br>
            <input type=" text placehoder="last name">
-
     </div>
        <div>                                     
          <label>Email</label><br>
@@ -137,7 +136,7 @@
              </div> 
            </div>
          </div>
-      </body> e
+      </body> 
     </html>                
                                               
 
