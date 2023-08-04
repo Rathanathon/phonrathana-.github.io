@@ -27,7 +27,7 @@
      <meta property="og:type" content="website">
      <meta property="og:title" content="Rathana phone Shop1 in  Phnom Penh">
      <meta property="og:description" content="Business As a loyal partner sell technology">
-     <meta property="og:image" content="https://httpsrathanaphon.websites.inof/files/971938/business/logo/logo-1332537698.jpeg">
+     <meta property="og:image" content="https://httpsrathanaphon.websites.info/files/971938/business/logo/logo-1332537698.jpeg">
      <meta property="og:url" content="https://httpsrathanaphon.websites.info">
      <meta name="geo.position" content map=id"19.076;72.8774">
      <meta name="geo.placename" content="Phnom Penh">
