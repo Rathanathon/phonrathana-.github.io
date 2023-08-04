@@ -1,7 +1,7 @@
-    <link href="h
+
 # https://httpsrathanaphon.website.info
 <!DOCTEYPE html>
-<html lagn="en"
+<html lagn="en_us"
 <html>
   <head></head>
       <head></head>
@@ -69,7 +69,7 @@
  </script> 
   </head> 
   <body style="height:100vh; background-color:#ffffff"> 
-     <div class="container d-flex h-100">
+    <div class="container d-flex h-100">
       <div class="container">      
        <div class="row justify-content-centeralign-self-center"> 
          <div class="col-md-10 mx-auto"> 
@@ -118,7 +118,6 @@
        <div>
            <label>last name< label><br>
            <input type=" text placehoder="last name">
-
     </div>
        <div>                                     
          <label>Email</label><br>
@@ -137,7 +136,7 @@
              </div> 
            </div>
          </div>
-      </body> e
+      </body> 
     </html>                
                                               
 
