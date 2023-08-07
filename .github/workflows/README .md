@@ -1,7 +1,6 @@
 
-# https://httpsrathanaphon.website.info
 <!DOCTEYPE html>
-<html lagn="en"
+<html lagn="en-kh"
 <html>
   <head></head>
       <head></head>
@@ -21,10 +20,12 @@
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
      <meta name="title" content="Rathana phone Shop1 in  Phnom Penh">
      <meta name="description" content="Business As a loyal partner sell technology">
+  
      <meta name="author" content="Rathana phone Shop1">
      <meta name="keywords" content="Rathana phone Shop1 in phonm penh life in Cambodia,Rathana phone Shop1 in OTHER RETAIL">
      <meta property="og:site_name" content="httpsrathanapho!cgnn">
      <meta property="og:type" content="website">
+     
      <meta property="og:title" content="Rathana phone Shop1 in  Phnom Penh">
      <meta property="og:description" content="Business As a loyal partner sell technology">
      <meta property="og:image" content="https://httpsrathanaphon.websites.info/files/971938/business/logo/logo-1332537698.jpeg">
@@ -36,7 +37,10 @@
      <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font" -awesome.min.css">  
      <link rel="stylesheet" href="css/custom.css"> 
        <title> Rathana phone Shop1 in  Phnom Penh </titie>
-          <!--barnd logo-->
+    <head>
+       <body>
+       <h1>My photo</h1>
+          <!--barnd logo profile My photo-->
        <nav id="navbar-wrapper" class="navbar navbar-expand-lg navbar-light">
     <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152"alt="Rathana phone Shop1">
           <!-- Favicon -->
@@ -44,7 +48,7 @@
           <!-- Google font -->
      <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
           <!-- BS4 minified v0.39.2.CSS -->
-     <link rel="stylesheet" href="https://httpsrathanaphon.websites.info/e-shop/css/bootstrap.min.css">
+     <link rel="stylesheet" href="https://httpsrathanaphon.websites.info/e-shop/css/bootstrap.min.css"
           <!-- Custom minified CSS -->
      <link rel="stylesheet" href="eventEditData: {
      <link rel="stylesheet" href="https://httpsrathanaphon.web="stylesheet">     
@@ -116,7 +120,7 @@
          <input type="text" placeholder="Name">
     </div>
        <div>
-           <label>last name< label><br>
+           <label>last name<label><br>
            <input type=" text placehoder="last name">
     </div>
        <div>                                     
