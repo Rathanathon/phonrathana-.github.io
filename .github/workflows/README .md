@@ -37,10 +37,17 @@
      <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font" -awesome.min.css">  
      <link rel="stylesheet" href="css/custom.css"> 
        <title> Rathana phone Shop1 in  Phnom Penh </titie>
+
     <head>
        <body>
        <h1>My photo</h1>
           <!--barnd logo profile My photo-->
+
+
+
+
+
+
        <nav id="navbar-wrapper" class="navbar navbar-expand-lg navbar-light">
     <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152"alt="Rathana phone Shop1">
           <!-- Favicon -->
@@ -120,8 +127,13 @@
          <input type="text" placeholder="Name">
     </div>
        <div>
+
            <label>last name<label><br>
            <input type=" text placehoder="last name">
+
+           <label>last name</label><br>
+           <input type=" text placehoder="lastname">
+
     </div>
        <div>                                     
          <label>Email</label><br>
