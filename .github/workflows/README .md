@@ -1,6 +1,6 @@
 
 <!DOCTEYPE html>
-<html lagn="en-kh"
+<html lagn="en-km">
 <html>
   <head></head>
       <head></head>
@@ -15,7 +15,7 @@
      <meta name="googlebot" content="index, follo">
      <meta name="web-app-capablecontent="yes">
      <meta name="mobile-web-app-capable" content="yes">
-     <link rel="apple-touch-icon" href="https://httpsrathanaphon.websites.info/files/971938/favicon/favicon.png?v=528721588"/>
+     <link rel="apple-touch-icon" href="https://httpsrathanaphon.websites.info/files/971938/favicon/favicon.jpeg?v=528721588"/>
      <meta name="theme-color" content="#FFFFFFfv6'jn+:jnv'">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
      <meta name="title" content="Rathana phone Shop1 in  Phnom Penh">
@@ -80,13 +80,13 @@
              <div class="row"> 
                <div class="col-md-4 mx-auto"> 
                  <img src="gmail"> 
-                 <img src="https://httpsrathanaphonwebsite.info/files/971938/business/logo-1332537698.jpeg landing/img/logo_color_116x41dp.png"  
-                  <div class="navbar-wrapper">-logo-top-brand-responsive" alt=Rathana phone shop1">          
+                 <img src="https://httpsrathanaphonwebsite.info/files/971938/business/logo/1332537698.jpeglanding/img/logo_color_116x41dp.jpeg" 
+                  <div class="navbar-wrapper">     
              <header>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
    <span class="navbar-toggler-icon"></span>
       <a href="https://httpsrathanaphon.websites.info" title="Rathana phone Shop1" class="td-none text-center">
-               <img src="https://httpsrathanaphonwebsite.info/landing/img/logo_color_116x41dp.png">
+               <img src="https://httpsrathanaphonwebsite.info/landing/img/logo_color_116x41dp.jpng">
             }
         }
    </script>               
@@ -119,8 +119,8 @@
          <input type="text" placeholder="Name">
     </div>
        <div>
-           <label>last name<label><br>
-           <input type=" text placehoder="lastname">
+          <label>last name<label><br>
+          <input type=" text placehoder="lastname">
     </div>
        <div>                                     
          <label>Email</label>
@@ -134,7 +134,7 @@
          <button class="button_1" type="submit">Send</button>                   
          <Use name> 
         <a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphon.websote.info/"websitesapp"  
- <div class="btn btn-outline-primary"="_blank"> Website.https://httpsrathanaphon.website.info/app 
+ <div class="btn btn-outline-primary"="_blank"> Website.https://httpsrathanaphon.website.info.
                 </a> <i class="fab fa-android"></i> 
              </div> 
            </div>
