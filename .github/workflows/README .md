@@ -9,7 +9,7 @@
        <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1e7946724e",applicationID:"31671751">
          ;;(()=>{var e,t,r={9071:(e,t,r)=>{"use strict";r.d(t,{I:()=>n});var
      <meta name="google-site-verification" content=id"6o3mfq88FPLGRnIKr5-LYJCU0HEBlaS37S48w34IWe0"/>
-     <meta name="document-type" c
+     <meta name="document-type" c">
      <meta name="document-rating" content="Safe for Kids">
      <meta name="robots" content="ALL, INDEX, Follow">
      <meta name="googlebot" content="index, follo">
@@ -20,12 +20,10 @@
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
      <meta name="title" content="Rathana phone Shop1 in  Phnom Penh">
      <meta name="description" content="Business As a loyal partner sell technology">
-  
      <meta name="author" content="Rathana phone Shop1">
      <meta name="keywords" content="Rathana phone Shop1 in phonm penh life in Cambodia,Rathana phone Shop1 in OTHER RETAIL">
      <meta property="og:site_name" content="httpsrathanapho!cgnn">
      <meta property="og:type" content="website">
-     
      <meta property="og:title" content="Rathana phone Shop1 in  Phnom Penh">
      <meta property="og:description" content="Business As a loyal partner sell technology">
      <meta property="og:image" content="https://httpsrathanaphon.websites.info/files/971938/business/logo/logo-1332537698.jpeg">
@@ -36,18 +34,12 @@
      <link href="https://fonts.ooleapis.com/css?family=Roboto:400,700&displa"=swap" rel="stylesheet">  
      <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font" -awesome.min.css">  
      <link rel="stylesheet" href="css/custom.css"> 
-       <title> Rathana phone Shop1 in  Phnom Penh </titie>
-
+      <title> Rathana phone Shop1 in  Phnom Penh </titie>
     <head>
        <body>
+     <header>
        <h1>My photo</h1>
           <!--barnd logo profile My photo-->
-
-
-
-
-
-
        <nav id="navbar-wrapper" class="navbar navbar-expand-lg navbar-light">
     <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152"alt="Rathana phone Shop1">
           <!-- Favicon -->
@@ -109,7 +101,7 @@
      <div class="Card-body text-center"> 
        <h5 class="card-title">
          <p class="card-text"> 
-         <p subscription"" To continue to use websites./https://httpsrathanaphon.website.inof-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof-/" account. "description":"Rathana Phone Shop1 Business As a loyal partner sell technology"<Buy Subcription""></a> 
+         <p subscription"" To continue to use websites./https://httpsrathanaphon.website.inof-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.info/" account. "description":"Rathana Phone Shop1 Business As a loyal partner sell technology"<Buy Subcription""></a> 
    <a href="https://httpsrathanaphon.website.info/login"> 
 <form>
     <input type="email" placeholder="Enter Email..." required>
@@ -127,16 +119,11 @@
          <input type="text" placeholder="Name">
     </div>
        <div>
-
            <label>last name<label><br>
-           <input type=" text placehoder="last name">
-
-           <label>last name</label><br>
            <input type=" text placehoder="lastname">
-
     </div>
        <div>                                     
-         <label>Email</label><br>
+         <label>Email</label>
          <input type="text" placeholder="Email Address">
      </div>
         <div>
